@@ -1,3 +1,5 @@
+![WhatsApp Image 2026-01-02 at 09 20 21](https://github.com/user-attachments/assets/d2cffd4f-90da-4646-93c8-b690619752e6)
+
 # 🧠 WAKEUP TOOL v25.6
 > **The Ultimate High-Tech Reconnaissance & Information Gathering System**
 
