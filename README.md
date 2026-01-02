@@ -8,7 +8,7 @@
 ![UI](https://img.shields.io/badge/UI-Neural--Kinetic-magenta)
 ![Stability](https://img.shields.io/badge/Security-Anti--Crash-red)
 
-**WAKEUP NEURAL OVERLORD** adalah alat *Reconnaissance* (pengumpulan informasi) tingkat lanjut yang dirancang dengan antarmuka **Neural Interface**. Alat ini menggabungkan kecepatan pemindaian, estetika modern, dan akurasi data untuk membantu profesional keamanan siber melakukan analisis mendalam terhadap target web secara efisien.
+**WAKEUP TOOL** adalah alat *Reconnaissance* (pengumpulan informasi) tingkat lanjut yang dirancang dengan antarmuka **Neural Interface**. Alat ini menggabungkan kecepatan pemindaian, estetika modern, dan akurasi data untuk membantu profesional keamanan siber melakukan analisis mendalam terhadap target web secara efisien.
 
 ---
 
