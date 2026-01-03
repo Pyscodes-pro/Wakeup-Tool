@@ -53,6 +53,7 @@ Alat ini membutuhkan **Python 3.8+**. Ikuti langkah berikut untuk menginstal di 
 **1. Clone Repositori**
 ```bash
 git clone https://github.com/Pyscodes-pro/wakeup-Tool.git
+cd Wakeup-Tool
 cd wakeup
 ```
 # 2. Instal Library yang Dibutuhkan
