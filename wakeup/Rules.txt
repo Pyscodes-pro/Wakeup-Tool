@@ -1,0 +1,26 @@
+========================================
+DISCLAIMER – WakeUp Tool
+========================================
+
+Author : Melvin-Pro
+
+WakeUp Tool dibuat untuk tujuan pembelajaran dan penggunaan pribadi.
+Segala bentuk penyalahgunaan di luar tanggung jawab pembuat.
+
+DILARANG KERAS:
+- Melakukan recode, modifikasi, atau perubahan pada source code ini
+- Menghapus atau mengubah nama alat dan identitas author
+- Mengklaim ulang (reclaim) sebagai milik pribadi
+- Memperjualbelikan atau mendistribusikan ulang tanpa izin tertulis
+
+Source code ini dilindungi oleh hak cipta.
+Setiap pelanggaran dapat dikenakan sanksi sesuai hukum yang berlaku.
+
+Jika ingin menggunakan, mengembangkan, atau bekerja sama,
+silakan hubungi author secara resmi.
+
+Gunakan dengan bijak.
+
+© WakeUp Tool - Melvin-Pro
+All Rights Reserved
+========================================
